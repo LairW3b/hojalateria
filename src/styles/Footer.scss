@@ -1,0 +1,34 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $primary-color;
+  margin-top: 2rem;
+  color: $font-color;
+  padding: 2rem;
+
+  @media (min-width: 900px) {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .footer_info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+
+    .footer_img {
+      width: 4rem;
+      margin-right: 1rem;
+    }
+
+    a {
+      text-decoration: none;
+      color: $font-color;
+      font-size: $title-size;
+    }
+  }
+}
