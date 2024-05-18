@@ -7,7 +7,7 @@ const Banner = () => {
         ¡Dale nueva vida a tus faros con nuestro servicio de restauración! Mejora la visibilidad y la estética de tu vehículo.
       </p>
 
-      <a href="tel:2222222" className="btn">
+      <a href="tel:2224586636" className="btn">
         <span>Contáctanos</span>
       </a>
     </section>

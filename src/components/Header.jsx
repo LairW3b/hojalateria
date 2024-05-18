@@ -5,8 +5,11 @@ const Header = () => {
   return (
     <header className="header_content">
       <img className="header_logo" src={logo} alt="" />
-      <a href="tel:2222222">
-        <img className="whatsapp" src={whatsapp} alt="" />
+      <a 
+        href="https://wa.me/2224586636"
+        target="_blank"
+      >
+        <img className="whatsapp" src={whatsapp} alt="icon whatsapp" />
       </a>
 
     </header>

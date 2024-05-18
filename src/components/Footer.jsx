@@ -8,7 +8,7 @@ const Footer = () => {
           src="phone-solid.svg"
           alt="icon number phone"
         />
-        <a href="tel:00000000">22-22-22-22-22</a>
+        <a href="tel:2224586636">22-24-58-66-36</a>
       </div>
 
       <div className="footer_info">
@@ -18,7 +18,7 @@ const Footer = () => {
           className="footer_img"
         />
         <a
-          href="https://www.google.com.mx/maps/place/Marisquer%C3%ADa+Don+Cangrejo/@19.0683728,-98.1229337,15z/data=!4m6!3m5!1s0x85cfea6f7443f1e5:0x87b94938b6af062d!8m2!3d19.069923!4d-98.1195737!16s%2Fg%2F1pzscbhnv?entry=ttu"
+          href="https://www.google.com.mx/maps/place/Av+14+Ote+4203,+Zona+Sin+Asignaci%C3%B3n+de+Nombre+de+Col+41,+Am%C3%A9rica+Sur,+72340+Heroica+Puebla+de+Zaragoza,+Pue./@19.0437738,-98.1665412,17z/data=!3m1!4b1!4m6!3m5!1s0x85cfc04f9d41a173:0x64577becbd0642d4!8m2!3d19.0437687!4d-98.1639663!16s%2Fg%2F11jk4nhb5b?entry=ttu"
           target="_blank"
         >
           Visitanos

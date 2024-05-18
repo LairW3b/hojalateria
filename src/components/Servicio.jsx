@@ -24,7 +24,7 @@ const Servicio = ({ prestaciones }) => {
 
         <div className="contacto_service">
           <a
-            href="tel:22222222"
+            href="tel:2224586636"
             className='btn'
           >
             Contáctanos

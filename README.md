@@ -97,3 +97,17 @@ hacerlo de esta forma.
         />
 
       ))} */}
+
+    
+datos: 
+- telefono
+- whatsapp: (en caso de que se vaya a usar si no para que cambie el icono por el de un telefono)
+Promoción y precio: 
+  estas son algunas que me dijiste que escribiera para que las recordaras y analizaras:
+  1.Facias 
+  2.Restauración de faros
+  3.Pintura de cajuela, toldo y cofre por tan solo 
+  4.Puertas y salpicaderas
+Agrege un icono de ubicación que envia a maps solo falta
+que me digas si se queda y que dirección pongo porque 
+no me la se jaja
