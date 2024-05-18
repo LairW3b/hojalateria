@@ -25,7 +25,7 @@ export const db = [
     id: 4,
     service: '+ Pintura de Facias',
     description: '¡Renueva tus facias con nuestro servicio de pintura especializada! Nuestros expertos devolverán el color y la vitalidad a tus facias.', 
-    img: 'hp2',
+    img: 'hp4',
     textAlt: 'hombre repintando carro'
   },
 ]
