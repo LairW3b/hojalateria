@@ -10,7 +10,6 @@
   margin: 3rem;
   border-radius: 1rem;
   border: 2px solid $primary-color ;
-  height: 90vh;
 
   @media (min-width: 900px) {
     display: flex;
@@ -73,12 +72,12 @@
       }
 
       .btn-modal {
-        width: 80%;
-        height: 5rem;
+        width: 50%;
         border-radius: .5rem;
         background-color: $primary-color;
         font-weight: bold;
         font-size: 2rem;
+        padding: .5rem;
 
         @media (min-width: 900px) {
           width: 50%;
