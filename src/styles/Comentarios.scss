@@ -1,0 +1,57 @@
+.mySwiper {
+  background-color: #87797767;
+
+  .swiper_content {
+
+    padding: 2rem 5.2rem;
+
+    .user {
+      display: flex;
+      align-items: center;
+
+      p {
+        margin-left: 1rem;
+        color: $primary-color;
+        font-weight: 600;
+      }
+
+    }
+
+    .user_comment {
+      color: $primary-color;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 1rem;
+    }
+
+
+    .swiper_img {
+      width: 5rem;
+    }
+
+    @media (min-width: 900px) {
+      margin: 5rem;
+      margin-left: 5rem;
+      margin-right: 5rem;
+
+      .user {
+        justify-content: center;
+
+        .swiper_img {
+          width: 6rem;
+        }
+
+        p {
+          font-size: 3rem;
+          margin-left: 3rem;
+        }
+      }
+
+      .user_comment {
+        font-size: 2.8rem;
+        margin: 1rem 3rem;
+      }
+    }
+  }
+
+}

@@ -8,6 +8,7 @@ import Banner from './components/Banner'
 import Servicio from './components/Servicio'
 import Footer from './components/Footer'
 import Promociones from './components/Promociones'
+import Comentarios from './components/Comentarios'
 
 function App() {
 
@@ -33,6 +34,7 @@ function App() {
         />
 
       ))}
+      <Comentarios />
       <Footer />
     </>
   )
