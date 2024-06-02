@@ -2,7 +2,7 @@
 const Banner = () => {
   return (
     <section className="banner">
-      <h1>Hojalateria y Pintura</h1>
+      <h1>Hojalatería y Pintura</h1>
       <h2>Restauración de <strong>faros</strong></h2>
       <p>
         ¡Dale nueva vida a tus faros con nuestro servicio de restauración! Mejora la visibilidad y la estética de tu vehículo.

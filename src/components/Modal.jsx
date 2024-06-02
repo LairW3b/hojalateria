@@ -21,9 +21,9 @@ const Modal = ({ modal, close }) => {
               <main className='modal-main'>
 
                 <section>
-                  <h2>Facias</h2>
+                  <h2>Pintado de Facias</h2>
                   <p>
-                    Pintamos tus <strong>facias</strong>:  <span>$1500.00</span>
+                    Pintamos las dos <strong>facias</strong>:  <span>$1500.00</span>
                   </p>
                   <hr />
                 </section>
@@ -44,13 +44,14 @@ const Modal = ({ modal, close }) => {
                 <section>
                   <h2>Costado completo</h2>
                   <p>
-                    Reparación <strong>puertas</strong> y salpicadera: <span>$3000.00</span>
+                    Pintura de costado <strong>puerta</strong> o puertas y salpicadera: <span>$2800.00</span>
                   </p>
                   <hr />
                 </section>
                 <div className='btn-modal'>
                   <a href='tel:2224586636'>
                     Llamar
+                    <p>2224586636</p>
                   </a>
                 </div>
 

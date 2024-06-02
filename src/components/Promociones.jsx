@@ -13,9 +13,8 @@ const Promociones = () => {
         <h1
           className='title_service'
         >
-          Hojalateria y Pintura
+          Hojalatería y Pintura
         </h1>
-        {/* <h3>Nuestras promociones</h3> */}
       </div>
 
       <div className='card-promo'>
